@@ -1,0 +1,5 @@
+127.0.0.1   familylink.google.com
+127.0.0.1   familylink.clients6.google.com
+127.0.0.1   play.google.com
+127.0.0.1   android.googleapis.com
+127.0.0.1   googleapis.com
